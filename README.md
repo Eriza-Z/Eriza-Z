@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Gamer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just a student that code for fun :)
 - 🌱 I’m currently learning cpp
 - 👯 I’m looking to collaborate with nobody
 
