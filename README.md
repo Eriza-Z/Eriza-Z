@@ -32,8 +32,9 @@
 <br />
 
 --- 
-<img align="left" alt="Eriza Z's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eriza-Z&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&"/>
-<img align="left" alt="Eriza Z's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eriza-Z&layout=compact"/>
+[![Eriza Zehezkiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eriza-Z&show_icons=true&hide_border=true&count_private=true&theme=cobalt&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eriza-Z&layout=compact)]
+
 
 
 [Steam]: https://steamcommunity.com/id/EvRXa
