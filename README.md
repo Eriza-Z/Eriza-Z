@@ -31,6 +31,10 @@
 <br />
 <br />
 
+--- 
+<img align="left" alt="Eriza Z's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eriza-Z&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&" />
+
+
 [Steam]: https://steamcommunity.com/id/EvRXa
 [Xbox]: https://account.xbox.com/Profile?xr=mebarnav
 [PSN]: https://my.playstation.com/profile/E_Z_G_S
