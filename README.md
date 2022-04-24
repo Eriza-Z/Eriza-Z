@@ -1,10 +1,6 @@
 ### Hi there, I'm Eriza Zehezkiel Gracia 👋
 
-## I'm a Student, and "Game Lover"
-
-- 🔭 I just a student that code for fun :)
-- 🌱 I’m currently learning cpp
-- 👯 I’m looking to collaborate with nobody
+## I'm a Student, and Game Lover.
 
 ### Connect with me:
 
