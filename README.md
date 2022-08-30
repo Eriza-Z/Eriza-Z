@@ -4,6 +4,7 @@
 
 ### Current Learning:
 [ReactJS]
+[Vite]
 
 ### Connect with me:
 
