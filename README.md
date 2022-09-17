@@ -31,7 +31,6 @@
 <br />
 
 --- 
-![Eriza Zehezkiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eriza-Z&show_icons=true&hide_border=true&count_private=true&theme=cobalt&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eriza-Z&layout=compact)
 
 
