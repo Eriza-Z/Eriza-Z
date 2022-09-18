@@ -3,8 +3,9 @@
 ## I'm a Student, and Game Lover.
 
 ### Current Learning:
-[ReactJS]
-[Vite]
+[<img align="left" alt="React.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][ReactJS]
+[<img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" />][Vite] 
+[<img align="left" alt="Astro" width="26px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />][Astro].
 
 ### Connect with me:
 
@@ -23,6 +24,7 @@
 [<img align="left" alt="React.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][ReactJS]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][Bootstrap]
 [<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][Tailwind]
+[<img align="left" alt="Astro" width="26px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />][Astro]
 [<img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" />][Vite]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
@@ -47,3 +49,4 @@
 [Bootstrap]: https://getbootstrap.com
 [Tailwind]: https://tailwindcss.com
 [Vite]: https://vitejs.dev
+[Astro]: https://astro.build
